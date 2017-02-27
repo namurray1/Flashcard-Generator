@@ -1,0 +1,22 @@
+{
+  "name": "flashcard",
+  "version": "1.0.0",
+  "description": "This application is the backend for a basic flashcard application. he backend will essentially constitute an API that allows users to create two types of flashcards. Basic flashcards, which have a front (\"Who was the first president of the United States?\"), and a back (\"George Washington\"). Cloze-Deleted flashcards, which present partial text (\"... was the first president of the United States.\"), and the full text when the user requests it (\"George Washington was the first president of the United States.\")",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namurray1/Flashcard-Generator.git"
+  },
+  "author": "Alex Murray",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/namurray1/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/namurray1/Flashcard-Generator#readme",
+  "dependencies": {
+    "inquirer": "^3.0.4"
+  }
+}
