@@ -1,5 +1,4 @@
 var inquirer = require("inquirer");
-var json = require("./app.json");
 var fs = require("fs");
 var card1;
 var currentCard;
