@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/namurray1/Flashcard-Generator#readme",
   "dependencies": {
-    "inquirer": "^3.0.4"
+    "inquirer": "^3.0.4",
+    "promise": "^7.1.1"
   }
 }

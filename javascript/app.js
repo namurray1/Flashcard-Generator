@@ -1,8 +1,11 @@
 var inquirer = require("inquirer");
 var fs = require("fs");
+//var json = require("./app.json");
 var card1;
 var currentCard;
 var count = 0;
+var Promise = require("promise");
+
 
 function ClozeCardPrototype() {
     this.print = function() {
