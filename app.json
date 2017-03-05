@@ -1,0 +1,12 @@
+[
+  {
+    "type": "BasicCard",
+    "front": "Who current president of the United States?",
+    "back": "Donald J Trump"
+  },
+  {
+    "type": "ClozeCard",
+    "text": ":Lady Libery was a gift from the...",
+    "cloze": "French"
+  }
+]
