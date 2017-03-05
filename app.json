@@ -6,7 +6,17 @@
   },
   {
     "type": "ClozeCard",
-    "text": ":Lady Libery was a gift from the...",
+    "text": ":Lady Libery was a gift from the French",
     "cloze": "French"
+  },
+  {
+    "type": "BasicCard",
+    "front": "What is your name?",
+    "back": "Alex"
+  },
+  {
+    "type": "ClozeCard",
+    "text": "George Washington warned against a two party system.",
+    "cloze": "two"
   }
 ]

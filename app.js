@@ -1,6 +1,6 @@
 var inquirer = require("inquirer");
 var fs = require("fs");
-//var json = require("./app.json");
+var json = require("./app.json");
 var card1;
 var currentCard;
 var count = 0;
